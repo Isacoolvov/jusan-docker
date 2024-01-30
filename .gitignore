@@ -1,2 +1,6 @@
 .git
 docker-bind/nginx.conf
+docker-mount/jusan-docker-mount
+docker-mount/jusan-docker-mount.conf
+docker-mount/jusan-docker-mount.zip
+docker-mount/__MACOSX
