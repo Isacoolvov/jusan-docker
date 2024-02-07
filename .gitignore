@@ -4,3 +4,6 @@ docker-mount/jusan-docker-mount
 docker-mount/jusan-docker-mount.conf
 docker-mount/jusan-docker-mount.zip
 docker-mount/__MACOSX
+dockerfile/jusan-dockerfile.conf
+dockerfile/jusan-dockerfile
+dockerfile/jusan-dockerfile.zip
